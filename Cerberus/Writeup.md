@@ -1,6 +1,7 @@
 ## Box Info
 
-![Cerberus](https://github.com/0xRyies/HTB_Active/assets/60355031/42b999fe-8f77-423b-81c0-bc73bd1e63ef)
+![256833222-42b999fe-8f77-423b-81c0-bc73bd1e63ef](https://github.com/0xRyies/HTB/assets/60355031/3b520c60-e6b7-487c-adb7-0ed193bcde37)
+
 
 ## Recon 
 ### Nmap
